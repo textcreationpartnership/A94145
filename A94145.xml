@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Captaine Richard Svvanley, to the Right Honourable, the Earl of Warwick. Being a full relation of the taking of the towne and castle of Cardigan in Wales, by Major Generall Laugharne, with above an hundred commanders and common souldiers, and all the arms and ammunition therein. Also the taking of the Irish commissioners at sea (that were going from the King in to Ireland) by Capt. Coachman, who are to be sent up to the Parliament; a list of whose names are here inserted. Published by Authority.</title>
+            <author>Swanley, Richard, d. 1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94145</idno>
+            <idno type="STC">Wing S6241</idno>
+            <idno type="STC">Thomason E25_1</idno>
+            <idno type="STC">ESTC R7699</idno>
+            <idno type="EEBO-CITATION">99873171</idno>
+            <idno type="PROQUEST">99873171</idno>
+            <idno type="VID">125631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125631)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E25[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Captaine Richard Svvanley, to the Right Honourable, the Earl of Warwick. Being a full relation of the taking of the towne and castle of Cardigan in Wales, by Major Generall Laugharne, with above an hundred commanders and common souldiers, and all the arms and ammunition therein. Also the taking of the Irish commissioners at sea (that were going from the King in to Ireland) by Capt. Coachman, who are to be sent up to the Parliament; a list of whose names are here inserted. Published by Authority.</title>
+                  <author>Swanley, Richard, d. 1650.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: the 5 in imprint date is crossed out and altered to 1644; "Jan: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Laugharne, Rowland, d. 1676.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Cardigan (Wales) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125631:1"/>
+            <pb facs="tcp:125631:1" rendition="simple:additions"/>
+            <p>A LETTER FROM Captaine RICHARD SVVANLEY, TO The Right Honourable, THE EARL OF WARWICK.</p>
+            <p>BEING A full Relation of the taking of the Towne and Caſtle of Cardigan in Wales, by Major Generall <hi>Laugharne,</hi> with above an hundred Commanders and common Souldiers, and all the Arms and Ammunition therein.</p>
+            <p>
+               <hi>ALSO</hi> The taking of the Iriſh Commiſſioners at Sea (that were going from the King in to Ireland) by Capt. <hi>Coachman,</hi> who are to be ſent up to the Parliament; a Liſt of whoſe names are here inſerted.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>John Thomas.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125631:2"/>
+            <pb n="1" facs="tcp:125631:2"/>
+            <head>A Letter ſent to the Right Honourable, the <hi>Earle of VVarwick,</hi> from Captain <hi>Richard Swanley.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my laſt of the 20. of <hi>No<g ref="char:EOLhyphen"/>vember</hi> by Captain <hi>Green</hi> in the <hi>Doggerboat,</hi> Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Laugharne</hi> keeping the Field, with ſuch Forces as the indigencie of the County gave a poſsibility of ſubſiſtence, pretending for <hi>Carmarthen,</hi> lying ſtill, working by double policy, to draw the hearts of the inhabi<g ref="char:EOLhyphen"/>tnnts of <hi>Cardiganſhire</hi> to the State, and the
+<pb n="2" facs="tcp:125631:3"/>Force of <hi>Carmarthen</hi> with their adherents, into the ſaid towne, for their defence, and the indempnity of their adjacent Gari<g ref="char:EOLhyphen"/>ſons, opportunely riſe and advanced from his Quarters to the towne of <hi>Cardigan,</hi> where the Countrey, formerly invited, made a party to aſsiſt the <hi>Generall,</hi> to com<g ref="char:EOLhyphen"/>plete the deſigne in agitation, and the town (faced at diſtance) willingly ſurrendred and complyed; the Caſtle (being a conſi<g ref="char:EOLhyphen"/>derable place, ably manned, having the ordnance of the <hi>Convert-Frigot,</hi> there ſhip<g ref="char:EOLhyphen"/>wrackt) moſt obſtinately held out, til a De<g ref="char:EOLhyphen"/>mi-Culverin of braſſe, belonging to the <hi>Leopard,</hi> was mounted, and played three dayes upon them, forcing a breach, which was gallantly entred and made good by our party, and the Caſtle ſtormed, where<g ref="char:EOLhyphen"/>in were 100. Commanders and Souldiers, with their Armes and good plunder; not
+<pb n="3" facs="tcp:125631:3"/>forgetting the <hi>Converts</hi> Ordnance, retur<g ref="char:EOLhyphen"/>ned by divine providence, and works of mercy in a Commander, adding honour to acts of chivalry, invited the Generall to give the Steward life, who contemned quarter. The town and caſtle reduced, and the Country in the major part (as concei<g ref="char:EOLhyphen"/>ved) wel-affected, our Army are advan<g ref="char:EOLhyphen"/>cing towards Newcaſtle, the enemies next Garriſon, which (as conceived) will bee ſlighted or acquitted by the Enemy, and that County brought to a right underſtan<g ref="char:EOLhyphen"/>ding of their duties, and Parliamentary juſt and honourable proceedings: to God be rendred the due praiſes of his mercies. Veſſels of late have been deſigned to the wel-affected Gariſons in Ireland, but none (in regard of contrary winds) returned; and Shipping to ply up the channell as high as <hi>Miniard</hi> have alſo been commiſ<g ref="char:EOLhyphen"/>ſionated
+<pb n="4" facs="tcp:125631:4"/>to give intelligence and aſsiſtance to our Forces in thoſe parts: Sir THOMAS MIDDLETONS Magazine of Ammunition ſince diſpoſed of to Leverpoole. Nothing that integrity and action may add life to the publike good, ſhall by Gods aſsiſtance, be wanting, and my faithfull endea<g ref="char:EOLhyphen"/>vours ſhall comply with your Honours great truſt, whoſe happineſſe ſhall ever conſiſt, my very good Lord, to be</p>
+            <closer>
+               <dateline>
+                  <date>1. Jan. 1644.</date>
+               </dateline>
+               <signed>Your most humble, and faithfull ſervant, <hi>Rich. Swanley.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="5" facs="tcp:125631:4"/>
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IN the night of this date, arrived Captain <hi>Coachman,</hi> in the True-love, from Le<g ref="char:EOLhyphen"/>verpool, Colonell <hi>Moores</hi> Letter from thence directed to me J have herewith preſented, who brought in the Content-prize with the paſſen<g ref="char:EOLhyphen"/>gers, as per liſt: J have included a paper that from Dublin came to hand, to whom J can yeeld no compliance, for want of Ammu<g ref="char:EOLhyphen"/>nition. Pray take preſent order to ſupply mee with Ammunition, and all ſtores, otherwiſe J ſhall burthen the State, and be diſable to do ſervice.</p>
+            <p>
+               <list>
+                  <head>A Liſt of tie Paſſengers names, taken in the Content-prize bound for Dublin, by Cap<g ref="char:EOLhyphen"/>tain <hi>Coachman</hi> in the True-love.</head>
+                  <item>The Lord Brabiſon.</item>
+                  <pb n="6" facs="tcp:125631:5"/>
+                  <item> Sir Henry Tichborne.</item>
+                  <item>Sir James Ware.</item>
+                  <item>M. Thomas Wakefield.</item>
+                  <item>M. Robert Price.</item>
+                  <item>M. Thomas Williams.</item>
+                  <item>M. John Smith.</item>
+                  <item>M. Alexander Nugent.</item>
+                  <item>M. Richard Holland.</item>
+                  <item>M. Patrick Pue.</item>
+                  <item>with their ſervants.</item>
+               </list> All which are to be ſent to the State, in the Honour, by Captaine <hi>Seaman,</hi> being of con<g ref="char:EOLhyphen"/>ſiderable force, with the first conveniency.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:125631:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
